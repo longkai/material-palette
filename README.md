@@ -1,6 +1,6 @@
 Material Palette
 ===
-This palette just copy from Google offical [Material Design Page][].
+This palette just copy from Google' s official [Material Design Page][].
 
 You can use it in your android project.
 
